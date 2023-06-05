@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11287510)
 ## Тьюториал: Создание приложения для конвертации валюты и биткоина
 
 В этом тьюториале мы создадим простое приложение на языке Python с использованием Flask. Приложение будет позволять конвертировать сумму в указанной валюте в биткоины, используя данные из стороннего API. При этом в процессе работы будем использовать TDD (Test driven development).
